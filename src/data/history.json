@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "EMSI",
+      "startDate": "Jul, 2024",
+      "endDate": "Sept,2024",
+      "experiences": ["", ""],
+      "imageSrc": "history/emsi.png"
+    },
+    {
+      "role": "UI Designer",
+      "organisation": "BrightDev",
+      "startDate": "Jul, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": ["", ""],
+      "imageSrc": "history/dev.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "CraftyBox",
+      "startDate": "Jun, 2021",
+      "endDate": "Sept, 2021",
+      "experiences": [
+        "",
+        ""
+      ],
+      "imageSrc": "history/crafzybox.png"
+    }
+  ]
+  

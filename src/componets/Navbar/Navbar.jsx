@@ -12,7 +12,7 @@ export const Navbar = () => {
             <a className={styles.title} href="/">Portfolio</a>
             <div className={styles.menu}>
                 <img 
-                    className={styles.manuBtn} 
+                    className={`${styles.menuBtn} ${menuOpen && styles.navbar}`}
                     src={
                         menuOpen
                           ? getImageUrl("nav/closeIcon.png")
@@ -26,13 +26,13 @@ export const Navbar = () => {
                     onClick={() => setMenuOpen(false)}
                 >
                     <li>
-                        <a href="#about">About</a>
+                        <a href="#upcommingDegrees">Upcomming Degrees</a>
                     </li>
                     <li>
-                        <a href="#experiencet">Experience</a>
+                        <a href="#experience">Experience</a>
                     </li>
                     <li>
-                        <a href="#projects">Projectst</a>
+                        <a href="#projects">Projects</a>
                     </li>
                     <li>
                         <a href="#contact">Contact</a>

@@ -1,0 +1,112 @@
+[
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/javae.png"
+  },
+
+  {
+    "title": "Bash Shell",
+    "imageSrc": "skills/bash.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/unix.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "VueJs",
+    "imageSrc": "skills/vueJs.png"
+  },
+  {
+    "title": "Scene Builder",
+    "imageSrc": "skills/scenebuilder.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Djnago",
+    "imageSrc": "skills/dj.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/spb.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Microsoft Azure",
+    "imageSrc": "skills/azure.png"
+  },
+  {
+    "title": "eclipse",
+    "imageSrc": "skills/eclipse.png"
+  },
+  {
+    "title": "Intellij",
+    "imageSrc": "skills/intellij.png"
+  },
+  {
+    "title": "Visual Studio Code",
+    "imageSrc": "skills/vscode.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+
+]
