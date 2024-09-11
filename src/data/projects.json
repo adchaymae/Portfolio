@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Project Management Application",
+      "imageSrc": "projects/project.png",
+      "description": "Developed for company XYZ, Admins can manage projects, track tasks, and handle team members.",
+      "skills": ["Spring Boot", "Vue.js", "MySQL"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "School Admin Desktop Application",
+      "imageSrc": "projects/project.png",
+      "description": "The application allows for efficient management of student data, enhancing administrative processes within educational institutions.",
+      "skills": ["Java FX", "MySQL", "Scene Builder"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Minishell",
+      "imageSrc": "projects/project.png",
+      "description": "A simplified version of a Unix shell, developed as part of the 42 coding curriculum. It features a command-line interface where users can execute various commands, manage processes, and interact with the system.",
+      "skills": ["Shell", " Bash", "C"],
+      "source": "https://www.github.com"
+    }
+  ]
+  
