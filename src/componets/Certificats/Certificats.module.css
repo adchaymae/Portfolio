@@ -20,7 +20,6 @@
   flex-direction:column;
   justify-content: space-evenly;
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .skills {
@@ -43,12 +42,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 70px;
-  height: 70px;
+  width: 120px;
+  height: 120px;
 }
 
 .skillImageContainer img {
-  width: 50px;
+  width: 75px;
 }
 
 .skill p {
@@ -57,14 +56,14 @@
   font-weight: 500;
 }
 
-.history {
+.certificats {
   width: 100%;
   display: flex;
   flex-direction: column;
   gap: 40px;
 }
 
-.historyItem {
+.certificatsItem {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -75,7 +74,7 @@
   padding: 24px;
 }
 
-.historyItem img {
+.certificatsItem img {
   width: 50px;
   height: 50px;
   background-color: var(--color-text);
@@ -83,21 +82,21 @@
 
 }
 
-.historyItemDetails {
+.certificatsItemDetails {
   font-family: var(--font-roboto);
 }
 
-.historyItemDetails h3 {
+.certificatsItemDetails h3 {
   font-size: 30px;
   font-weight: 500;
 }
 
-.historyItemDetails p {
+.certificatsItemDetails p {
   font-size: 20px;
   font-weight: 300;
 }
 
-.historyItemDetails ul {
+.certificatsItemDetails ul {
   margin-top: 6px;
   list-style-position: inside;
   font-size: 15px;
@@ -117,7 +116,7 @@
     justify-content: center;
   }
 
-  .history {
+  .certificats {
     width: 100%;
     gap: 9px;
   }

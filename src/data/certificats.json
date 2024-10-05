@@ -1,0 +1,64 @@
+[
+    {
+      "role": "Full Stack Software Developer Professional Certificate",
+      "organisation": "IBM",
+      "startDate": "2024",
+      "certificats": ["Introduction to Software Engineering", "Cloud Computing","Introduction to HTML, CSS, & JavaScript","Getting Started with Git and GitHub","Developing Front-End Apps with React","Developing Back-End Apps with Node.js and Express", "Python for Data Science, AI & Development","Developing AI Applications with Python and Flask","Django Application Development with SQL and Databases","Introduction to Containers w/ Docker, Kubernetes & OpenShift","Application Development using Microservices and Serverless","Full Stack Application Development Capstone Project","Full Stack Software Developer Assessment","Generative AI: Elevate your Software Development Career","Software Developer Career Guide and Interview Preparation"]
+    },
+    {
+      "role": "React Basics",
+      "organisation": "Meta",
+      "startDate": "2024",
+      "certificats": ["Use reusable components to render views where data changes over time","Organize React projects to create more scalable and maintainable websites and app","Use props to pass data between components. Create dynamic and interactive web pages and apps","Use forms to allow users to interact with the app. Build an application in React"]
+    },
+    {
+      "role": "React Native",
+      "organisation": "Meta",
+      "startDate": "2024",
+      "certificats": ["Mobile Development", "Web Development"
+      ]
+    },
+    {
+        "role": "Introduction to Git and GitHub",
+        "organisation": "Google",
+        "startDate": "2024",
+        "certificats": ["Understand why version control is a fundamental tool for coding and collaboration","Install and run Git on our local machine ","Use and interact with GitHub ","Collaborate with others through remote repositories"]
+    },
+    {
+        "role": "Virtual Networks in Azure",
+        "organisation": "Whizlabs",
+        "startDate": "2024",
+        "certificats": [" Working with Virtual Networks"," Load Balancing, DNS and Monitor virtual networking"]
+    },
+    {
+        "role": "Python for Everybody Specialization",
+        "organisation": "University of Michigan",
+        "startDate": "2023",
+        "certificats": ["Programming for Everybody (Getting Started with Python)","Using Python to Access Web Data","Capstone: Retrieving, Processing, and Visualizing Data with Python","Python Data Structures","Using Databases with Python"
+        ]
+    },
+    {
+        "role": "Java and Object-Oriented Programming ",
+        "organisation": " University of Pennsylvania",
+        "startDate": "2023",
+        "certificats": ["Identify core aspects of object-oriented programming and features of the Java language.", "Use Eclipse for writing and running Java code.", "Develop programs that use Java collections and apply core object-oriented programming concepts using classes, polymorphism, and method overloading.", "Test code by applying principles of test-driven development using Java's unit testing framework."]
+    },
+    {
+        "role": "Software Engineering: Modeling Software Systems using UML",
+        "organisation": " Hong Kong University of Science and Technology",
+        "startDate": "2023",
+        "certificats": ["Software Engineering","Software Architecture","Project Management"]
+    },
+    {
+        "role": "Principe de base du système Unix",
+        "organisation": "Codio",
+        "startDate": "2023",
+        "certificats": ["learn about the Unix system and how to use basic features such as working with the file system and processes"]
+    }
+
+    
+
+    
+    
+  ]
+  

@@ -4,21 +4,28 @@
       "imageSrc": "projects/project.png",
       "description": "Developed for company XYZ, Admins can manage projects, track tasks, and handle team members.",
       "skills": ["Spring Boot", "Vue.js", "MySQL"],
-      "source": "https://www.github.com"
+      "source": "https://github.com/adchaymae/Project_management_app"
     },
     {
-      "title": "School Admin Desktop Application",
-      "imageSrc": "projects/project.png",
-      "description": "The application allows for efficient management of student data, enhancing administrative processes within educational institutions.",
-      "skills": ["Java FX", "MySQL", "Scene Builder"],
-      "source": "https://www.github.com"
+      "title": "My_Books",
+      "imageSrc": "projects/django.png",
+      "description": "A plateform where you can play with CRUD operations by creating, reading, updating and deleting book's record.",
+      "skills": ["Django", " Boostrap", "SQLite"],
+      "source": "https://github.com/adchaymae/MyBooks.git"
     },
     {
       "title": "Minishell",
-      "imageSrc": "projects/project.png",
-      "description": "A simplified version of a Unix shell, developed as part of the 42 coding curriculum. It features a command-line interface where users can execute various commands, manage processes, and interact with the system.",
+      "imageSrc": "projects/minishell.webp",
+      "description": ["This is a simple shell implemented in C, focusing on process management and file descriptors. It features a command-line interface for executing commands and interacting with the system, enhancing my skills in system programming."],
       "skills": ["Shell", " Bash", "C"],
-      "source": "https://www.github.com"
+      "source": "https://github.com/adchaymae/minishell.git"
+    },
+    {
+      "title": "School Admin Desktop Application",
+      "imageSrc": "projects/java.jpeg",
+      "description": "The application allows for efficient management of student data, enhancing administrative processes within educational institutions.",
+      "skills": ["Java FX", "MySQL", "Scene Builder"],
+      "source": "https://github.com/adchaymae/SchoolAdmin"
     }
   ]
   

@@ -15,16 +15,9 @@ export const UpcommingDegrees = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
-            <div className={styles.aboutItemText}>
-              <h3>Double Master's in MIAGE and Applied Artificial Intelligence</h3>
-              <p>University of Côte d'Azur, 2025</p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Engineering Degree in Computer Science and Networks</h3>
+              <h3>Engineering Degree in Computer Science and Networks (MIAGE option)</h3>
               <p>Moroccan School of Engineering Sciences (EMSI), 2025</p>
             </div>
           </li>

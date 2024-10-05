@@ -14,7 +14,7 @@ export const Hero = () => {
                 <p className={styles.description}>Final-year Computer Science and Networks Engineering student with a strong passion for software development. 
                     Let's connect to explore how I can contribute to your team.</p>
                 <div className={styles.buttonContainer}>
-                    <a href="/cv.pdf" download className={styles.contactBtn}>
+                    <a href="/Chaymae_Adlane_CV.pdf" download className={styles.contactBtn}>
                          Download CV
                     </a>
                     <a href="mailto:chaymaeadlane65@gmail.com" className={styles.contactBtn}>
@@ -24,7 +24,7 @@ export const Hero = () => {
 
             </div>
             <img
-                src={getImageUrl("hero/heroImage.png")}
+                src={getImageUrl("hero/herof.png")}
                 alt="Hero image of me"
                 className={styles.heroImg}
             />

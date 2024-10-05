@@ -5,6 +5,7 @@ import { UpcommingDegrees } from "./componets/UpcommingDegrees/UpcommingDegrees"
 import { Experience } from "./componets/Experience/Experience";
 import { Projects } from "./componets/Projects/Projects";
 import { Contact } from "./componets/Contact/Contact";
+import { Certificats } from "./componets/Certificats/Certificats";
 
 function App() {
   return (

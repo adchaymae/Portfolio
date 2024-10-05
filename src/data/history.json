@@ -1,28 +1,28 @@
 [
     {
-      "role": "Software Engineer",
+      "role": "Software Developer Intern",
       "organisation": "EMSI",
       "startDate": "Jul, 2024",
-      "endDate": "Sept,2024",
-      "experiences": ["", ""],
+      "endDate": "Aug, 2024",
+      "experiences": ["Developed a student voting application using React for the front-end and Node.js/Express for the back-end.", "Implemented MySQL for managing votes and results"],
       "imageSrc": "history/emsi.png"
     },
     {
-      "role": "UI Designer",
+      "role": "Full Stack Developer Intern",
       "organisation": "BrightDev",
       "startDate": "Jul, 2023",
-      "endDate": "Aug, 2023",
-      "experiences": ["", ""],
+      "endDate": "Sept, 2023",
+      "experiences": ["Developed an Angular-based interface for uploading files and selecting preconfigured data schemas", "Implemented automated data validation and comparison using ASP.NET (C#) and MongoDB, ensuring selective updates to the database","Integrated ETL processes to streamline large-scale data handling and transformation."],
       "imageSrc": "history/dev.png"
     },
     {
       "role": "SWE Intern",
       "organisation": "CraftyBox",
-      "startDate": "Jun, 2021",
-      "endDate": "Sept, 2021",
+      "startDate": "Jul, 2021",
+      "endDate": "Aug, 2021",
       "experiences": [
-        "",
-        ""
+        "Participated in the design and development of features for the craftybox.ma website.",
+        "Utilized technologies such as HTML, CSS, JavaScript, and PHP."
       ],
       "imageSrc": "history/crafzybox.png"
     }

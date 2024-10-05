@@ -31,7 +31,7 @@ export const Experience = () => {
             );
           })}
         </ul>
-        <h2 className={styles.content}>tools that I had an Experience with :</h2>
+        <h2 className={styles.content}>Development Tools and Languages I've Worked With:</h2>
         <div className={styles.skills}>
           {skills.map((skill, id) => {
             return (

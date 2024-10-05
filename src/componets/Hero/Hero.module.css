@@ -7,8 +7,6 @@
     justify-content: space-around;
     margin: 49px;
     z-index: 1;
-    margin-left: 10%;
-    margin-right: 10%;
 }
 .content {
     display: flex;
@@ -29,7 +27,7 @@
 .description {
     font-size: 25px;
     font-family: var(--font-roboto);
-    margin-bottom: 52px;
+    margin-bottom: 100px;
 }
 
 .contactBtn {
@@ -48,7 +46,7 @@
     justify-content: flex-start; /* Aligner les boutons à gauche, ou utiliser center si nécessaire */
 }
 .heroImg {
-    width: 50%;
+    width:50%;
     z-index: 1;
 
     animation-name: floating;
@@ -81,6 +79,7 @@
     background: rgba(25, 55, 109, 0.7);
     filter: blur(100px);
     z-index: 0;
+    margin-top: 50px;
 
 }
 

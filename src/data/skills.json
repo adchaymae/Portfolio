@@ -21,7 +21,7 @@
   },
 
   {
-    "title": "Bash Shell",
+    "title": "Bash-Shell",
     "imageSrc": "skills/bash.png"
   },
   {
@@ -57,10 +57,6 @@
     "imageSrc": "skills/scenebuilder.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
-  },
-  {
     "title": "Djnago",
     "imageSrc": "skills/dj.png"
   },
@@ -91,22 +87,6 @@
   {
     "title": "Microsoft Azure",
     "imageSrc": "skills/azure.png"
-  },
-  {
-    "title": "eclipse",
-    "imageSrc": "skills/eclipse.png"
-  },
-  {
-    "title": "Intellij",
-    "imageSrc": "skills/intellij.png"
-  },
-  {
-    "title": "Visual Studio Code",
-    "imageSrc": "skills/vscode.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
   }
 
 ]
